@@ -7,6 +7,6 @@ function bestFriend(friends) {
     }
     return largestName;
 }
-let motherFuckers = ["Sohan", "Koushik", "Nafis", "Shoron", "Durjoy"];
-let largestName = bestFriend(motherFuckers);
+let cottageMembers = ["Sohan", "Koushik", "Nafis", "Shoron", "Durjoy"];
+let largestName = bestFriend(cottageMembers);
 console.log(largestName);
